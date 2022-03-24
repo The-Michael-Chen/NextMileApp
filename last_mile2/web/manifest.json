@@ -1,11 +1,11 @@
 {
-    "name": "next_mile",
-    "short_name": "next_mile",
+    "name": "last_mile2",
+    "short_name": "last_mile2",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "our app to connect arctop ",
+    "description": "ar proj",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
